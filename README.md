@@ -43,7 +43,7 @@ assignment3/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/lize-zabote/Regularization-Stability-ML.git
-cd assignment3
+cd Regularization-Stability-ML
 ```
 
 ### 2. Create a virtual environment and install dependencies
