@@ -42,7 +42,7 @@ assignment3/
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/assignment3.git
+git clone https://github.com/lize-zabote/Regularization-Stability-ML.git
 cd assignment3
 ```
 
