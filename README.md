@@ -28,11 +28,6 @@ assignment3/
 │   └── plotting.py       # all matplotlib visualization
 │
 ├── outputs/              # generated plots (created on first run)
-│   ├── fig1_synthetic_stability.pdf
-│   ├── fig2_synthetic_error.pdf
-│   ├── fig3_diabetes_stability.pdf
-│   ├── fig4_diabetes_error.pdf
-│   └── fig5_size_study.pdf
 │
 ├── report/
 │   └── report_assignment3.pdf   # Final report
